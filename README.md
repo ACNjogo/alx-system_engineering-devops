@@ -1,0 +1,1 @@
+this is a repo that shows my shell basics knowledge

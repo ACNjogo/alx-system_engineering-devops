@@ -1,0 +1,3 @@
+
+#!/bin/bash
+chown -h :staff _hello
